@@ -107,5 +107,3 @@ char	*get_next_line(int fd)
 		tmp = free_tmp(tmp);
 	return (line);
 }
-
-
