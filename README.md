@@ -127,3 +127,9 @@ To compile the bonus version, which supports reading from multiple file descript
 cc -o main main.c get_next_line_bonus.c get_next_line_utils_bonus.c
 ```
 > This version enables simultaneous reading from different file descriptors without interference between them.
+
+<br>
+
+## 👨‍💻 Author
+- [GitHub](https://github.com/mouracv)
+- [Linkedin](https://www.linkedin.com/in/alexsandro-moreira-2b438a347/)
