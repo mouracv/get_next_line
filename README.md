@@ -131,5 +131,4 @@ cc -o main main.c get_next_line_bonus.c get_next_line_utils_bonus.c
 <br>
 
 ## 👨‍💻 Author
-- [GitHub](https://github.com/mouracv)
 - [Linkedin](https://www.linkedin.com/in/alexsandro-moreira-2b438a347/)
